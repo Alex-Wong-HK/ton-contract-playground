@@ -78,7 +78,7 @@ Get Nft Item Address By Index
 npx blueprint run -> NFT.GET.NftAddressByIndex
 ```
 
-## Nft Collection
+## Nft Item
 ### Send Function
 ``` 
 # Staking
